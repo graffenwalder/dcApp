@@ -4,8 +4,8 @@ Met Dc App, kunt u uw ritten, zegelnummers en eventuele opmerkingen opslaan.
 
 ## Apk
 
-* app-arm64-v8a-release.apk
-* app-armeabi-v7a-release.apk
+* [app-arm64-v8a-release.apk](apk/app-arm64-v8a-release.apk)
+* [app-armeabi-v7a-release.apk](apk/app-armeabi-v7a-release.apk)
 
 ## Werking
 
@@ -21,6 +21,7 @@ Hier heeft u de volgende opties:
 - Instellingen
 
   * verander taal
+    - Keuze uit Nederlands en Engels
   * Alle instellingen herstellen
     - Dit wist ook alle rit gegevens
 
@@ -44,9 +45,9 @@ Hier heeft u de volgende opties:
 ## Screen Shots
 
 <img src="/images/main_screen.png" height="500"> <img src="/images/empty_edit.png" height="500">
-
+---
 <img src="/images/info_screen.png" height="500"> <img src="/images/km_edit.png" height="500">
-
+---
 <img src="/images/manifest_code.png" height="500">
 
 
