@@ -54,7 +54,7 @@ Hier heeft u de volgende opties:
 
 ## Te Doen
 
-- [ ] Elke rit container moet verwijderbaar zijn, nu alleen de laatste
+- [x] Elke rit container moet verwijderbaar zijn, nu alleen de laatste
 - [ ] Bij edit van rit container de huidige waardes tonen in text veld, nu blank
 - [x] Optie om 4 of 5 cijfers in te voeren bij winkel info, nu 4
 - [x] Optie om DCP info te verbergen of laten zien
