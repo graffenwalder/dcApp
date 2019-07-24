@@ -22,6 +22,7 @@ Hier heeft u de volgende opties:
 
   * verander taal
     - Keuze uit Nederlands en Engels
+    
   * Alle instellingen herstellen
     - Dit wist ook alle rit gegevens
 
