@@ -55,7 +55,8 @@ Hier heeft u de volgende opties:
 ## Te Doen
 
 - [x] Elke rit container moet verwijderbaar zijn, nu alleen de laatste
-- [ ] Bij edit van rit container de huidige waardes tonen in text veld, nu blank
+- [x] Bij edit van rit container de huidige waardes tonen in text veld, nu blank
+- [ ] Bij edit originele waardes kunnen wijzigen, niet van begin starten
 - [x] Optie om 4 of 5 cijfers in te voeren bij winkel info, nu 4
 - [x] Optie om DCP info te verbergen of laten zien
 - [ ] Lanceer app op Play Store
