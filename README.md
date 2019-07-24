@@ -22,7 +22,7 @@ Hier heeft u de volgende opties:
 
   * verander taal
     - Keuze uit Nederlands en Engels
-    
+
   * Alle instellingen herstellen
     - Dit wist ook alle rit gegevens
 
@@ -56,8 +56,8 @@ Hier heeft u de volgende opties:
 
 - [ ] Elke rit container moet verwijderbaar zijn, nu alleen de laatste
 - [ ] Bij edit van rit container de huidige waardes tonen in text veld, nu blank
-- [ ] Optie om 4 of 5 cijfers in te voeren bij winkel info, nu 4
-- [ ] Optie toe voegen om DCP info, te verbergen of laten zien
+- [x] Optie om 4 of 5 cijfers in te voeren bij winkel info, nu 4
+- [x] Optie om DCP info te verbergen of laten zien
 - [ ] Lanceer app op Play Store
 
 ## Contact
