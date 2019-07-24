@@ -27,7 +27,7 @@ Hier heeft u de volgende opties:
     - Dit wist ook alle rit gegevens
 
 - Manifest Codes
- * Hier staan de codes die u bij chauffeurs opmerkingen kan invullen
+  * Hier staan de codes die u bij chauffeurs opmerkingen kan invullen
 
 - Winkel Info
   * Hier kunt u het 4/5 cijferige winkel nummer invullen, vevolgens wordt u door gestuurd naar [dc-routes.nl](https://dc-routes.nl/) in uw mobiele browser
