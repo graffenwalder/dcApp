@@ -59,6 +59,7 @@ Hier heeft u de volgende opties:
 - [ ] Bij edit originele waardes kunnen wijzigen, niet van begin starten
 - [x] Optie om 4 of 5 cijfers in te voeren bij winkel info, nu 4
 - [x] Optie om DCP info te verbergen of laten zien
+- [ ] Verander layout bij grote schermen
 - [ ] Lanceer app op Play Store
 
 ## Contact
